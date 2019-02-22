@@ -1,16 +1,20 @@
-# Compiled class file
+# ide's config files
+.idea/
+nbproject/
+.vscode/
+*.iml
+
+# java bytecode generation
+out/
+gen/
+
+# compiled class file
 *.class
 
-# Log file
+# logs file
 *.log
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# package files
 *.jar
 *.war
 *.nar
